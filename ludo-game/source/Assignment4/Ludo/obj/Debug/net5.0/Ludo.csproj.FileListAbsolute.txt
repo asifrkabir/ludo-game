@@ -1,0 +1,48 @@
+C:\Users\WALTON\source\repos\Assignment4\Ludo\bin\Debug\net5.0\Ludo.exe
+C:\Users\WALTON\source\repos\Assignment4\Ludo\bin\Debug\net5.0\Ludo.deps.json
+C:\Users\WALTON\source\repos\Assignment4\Ludo\bin\Debug\net5.0\Ludo.runtimeconfig.json
+C:\Users\WALTON\source\repos\Assignment4\Ludo\bin\Debug\net5.0\Ludo.runtimeconfig.dev.json
+C:\Users\WALTON\source\repos\Assignment4\Ludo\bin\Debug\net5.0\Ludo.dll
+C:\Users\WALTON\source\repos\Assignment4\Ludo\bin\Debug\net5.0\ref\Ludo.dll
+C:\Users\WALTON\source\repos\Assignment4\Ludo\bin\Debug\net5.0\Ludo.pdb
+C:\Users\WALTON\source\repos\Assignment4\Ludo\obj\Debug\net5.0\Ludo.csproj.AssemblyReference.cache
+C:\Users\WALTON\source\repos\Assignment4\Ludo\obj\Debug\net5.0\Ludo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\source\repos\Assignment4\Ludo\obj\Debug\net5.0\Ludo.AssemblyInfoInputs.cache
+C:\Users\WALTON\source\repos\Assignment4\Ludo\obj\Debug\net5.0\Ludo.AssemblyInfo.cs
+C:\Users\WALTON\source\repos\Assignment4\Ludo\obj\Debug\net5.0\Ludo.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\source\repos\Assignment4\Ludo\obj\Debug\net5.0\Ludo.dll
+C:\Users\WALTON\source\repos\Assignment4\Ludo\obj\Debug\net5.0\ref\Ludo.dll
+C:\Users\WALTON\source\repos\Assignment4\Ludo\obj\Debug\net5.0\Ludo.pdb
+C:\Users\WALTON\source\repos\Assignment4\Ludo\obj\Debug\net5.0\Ludo.genruntimeconfig.cache
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\bin\Debug\net5.0\Ludo.exe
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\bin\Debug\net5.0\Ludo.deps.json
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\bin\Debug\net5.0\Ludo.runtimeconfig.json
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\bin\Debug\net5.0\Ludo.runtimeconfig.dev.json
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\bin\Debug\net5.0\Ludo.dll
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\bin\Debug\net5.0\ref\Ludo.dll
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\bin\Debug\net5.0\Ludo.pdb
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\obj\Debug\net5.0\Ludo.csproj.AssemblyReference.cache
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\obj\Debug\net5.0\Ludo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\obj\Debug\net5.0\Ludo.AssemblyInfoInputs.cache
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\obj\Debug\net5.0\Ludo.AssemblyInfo.cs
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\obj\Debug\net5.0\Ludo.csproj.CoreCompileInputs.cache
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\obj\Debug\net5.0\Ludo.dll
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\obj\Debug\net5.0\ref\Ludo.dll
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\obj\Debug\net5.0\Ludo.pdb
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\Assignment4\Ludo\obj\Debug\net5.0\Ludo.genruntimeconfig.cache
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\bin\Debug\net5.0\Ludo.exe
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\bin\Debug\net5.0\Ludo.deps.json
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\bin\Debug\net5.0\Ludo.runtimeconfig.json
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\bin\Debug\net5.0\Ludo.runtimeconfig.dev.json
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\bin\Debug\net5.0\Ludo.dll
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\bin\Debug\net5.0\ref\Ludo.dll
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\bin\Debug\net5.0\Ludo.pdb
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\obj\Debug\net5.0\Ludo.csproj.AssemblyReference.cache
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\obj\Debug\net5.0\Ludo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\obj\Debug\net5.0\Ludo.AssemblyInfoInputs.cache
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\obj\Debug\net5.0\Ludo.AssemblyInfo.cs
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\obj\Debug\net5.0\Ludo.csproj.CoreCompileInputs.cache
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\obj\Debug\net5.0\Ludo.dll
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\obj\Debug\net5.0\ref\Ludo.dll
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\obj\Debug\net5.0\Ludo.pdb
+E:\Courses\DevSkill - C# Course\Assignments\Assignment-4\devskill-csharp-b8\Assignment4\source\Assignment4\Ludo\obj\Debug\net5.0\Ludo.genruntimeconfig.cache
